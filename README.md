@@ -24,8 +24,9 @@
    ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
  
  ## My GitHub Stats
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PratypartyY2K)](https://github.com/anuraghazra/github-readme-stats)  
 [![Pratyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=PratypartyY2K)](https://github.com/PratypartyY2K/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PratypartyY2K&layout=compact)](https://github.com/PratypartyY2K/github-readme-stats)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=PratypartyY2K)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
    ## Browsers Used
 ![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
