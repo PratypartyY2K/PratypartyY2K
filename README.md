@@ -3,7 +3,7 @@
 - 🚀 Associate Software Engineer @ **Enphase Energy** (Cloud R&D)  
 - 👨‍💻 Strong background in **Frontend Development**, currently learning **Backend Development** to grow into a **Full Stack Developer**  
 - 🎓 Currently pursuing **MS in Computer Science (General track, core CS)** at **The Pennsylvania State University, University Park**
-- - Fall 2025 coursework: Design Operating Systems, Foundations of Computer Architecture
+  -- Fall 2025 coursework: Design Operating Systems, Foundations of Computer Architecture
 - 📚 Tech enthusiast with interests in **Web Development, Cloud, and Software Engineering**  
 - 🤝 Open to collaborating on **full-stack projects, open-source contributions, and research-oriented builds**  
 - 🏸 Outside of tech, I enjoy playing **badminton**, which keeps me active, disciplined, and dynamic.  
@@ -81,9 +81,12 @@
 ### Operating Systems  
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)  
 
 ### IDEs  
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)  
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)  
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)  
+![RubyMine](https://img.shields.io/badge/RubyMine-CC342D?style=for-the-badge&logo=ruby&logoColor=white)  
+![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black)  
