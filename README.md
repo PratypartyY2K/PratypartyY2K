@@ -1,12 +1,4 @@
-## Hi there 👋 I'm Pratyush Kumar  
-
-- 🚀 Associate Software Engineer @ **Enphase Energy** (Cloud R&D)  
-- 👨‍💻 Strong background in **Frontend Development**, currently learning **Backend Development** to grow into a **Full Stack Developer**  
-- 🎓 Currently pursuing **MS in Computer Science (General track, core CS)** at **The Pennsylvania State University, University Park**
-  -- Fall 2025 coursework: Design Operating Systems, Foundations of Computer Architecture
-- 📚 Tech enthusiast with interests in **Web Development, Cloud, and Software Engineering**  
-- 🤝 Open to collaborating on **full-stack projects, open-source contributions, and research-oriented builds**  
-- 🏸 Outside of tech, I enjoy playing **badminton**, which keeps me active, disciplined, and dynamic.  
+Hi — I’m Pratyush Kumar. I build backend systems and scalable distributed services. I’ve engineered Ruby-on‐Rails microservices at Enphase Energy, built a multi-threaded MapReduce engine in C++/gRPC, and mentor students in C++ and algorithmic thinking. I’m currently focused on backend, cloud and performance engineering, and I invite you to explore my flagship repos below. 
 
 ---
 
