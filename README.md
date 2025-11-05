@@ -1,83 +1,74 @@
-## 🧑‍💻 Hi, I’m Pratyush Kumar 👋
+## 🧑‍💻 Pratyush Kumar — Backend & Distributed Systems Engineer
 
-I’m a Master’s student in Computer Science at Penn State University with 2 years of experience as a Software Engineer at Enphase Energy. My focus is on building scalable, reliable systems and distributed architectures. I’m currently expanding my skills into full-stack development while deepening my knowledge in backend engineering, cloud computing, and performance optimization.
+I build and scale backend systems with a focus on **performance, reliability, and clarity of design**.  
+I’m currently pursuing my **Master’s in Computer Science at Penn State**, and previously worked for **2 years at Enphase Energy**, where I engineered and optimized cloud services used by thousands of users.
 
----
-
-## What I Build 🔧
-
-I design, optimize, and scale backend systems that power real-world applications. I thrive on solving complex problems like:
-* Concurrency management and performance bottlenecks
-* Designing scalable architectures that can handle large user bases
-* Distributed systems that work seamlessly across different services and databases 
+I enjoy the kind of problems that require understanding **data flow, concurrency, and real system behavior**—not just syntax.
 
 ---
 
-## My Skills 💻
+## 🔧 What I Focus On
 
-**Backend Systems:** Ruby on Rails, Django, C++, Python
-
-**Distributed Systems:** gRPC, MapReduce, Multi-threading
-
-**Data Engineering:** PostgreSQL, Redis, MySQL, Parquet
-
-**Cloud:** AWS (EC2)
-
-**DevOps:** Jenkins, CI/CD pipelines
-
-**Testing & Automation:** Selenium, Postman, TestRail, TestNG
+- Designing and scaling **distributed and backend systems**
+- Diagnosing and resolving **performance bottlenecks**
+- Building **clean, maintainable system architectures**
+- Teaching and explaining complex concepts **simply and intuitively**
 
 ---
 
-## Recent Projects 🚀
+## 💻 Skills & Technologies
 
-[**MapReduce Compute Engine (Distributed Systems)**](https://github.com/PratypartyY2K/cpp-mapreduce-framework)
-* Built a distributed MapReduce framework in C++ with gRPC. Improved performance by 6–7× by optimizing lock contention and RPC batching strategies.
-
-[**Risk-Based Vaccination Prioritization System (ML/Backend)**](https://github.com/PratypartyY2K/Vaccine)
-* Developed a Random Forest model to prioritize individuals based on risk factors, improving fairness and decision-making for vaccine distribution in community health systems.
-
----
-
-## What I’m Currently Focusing On 🎯
-
-* **Distributed Systems:** Scaling backend services efficiently
-
-* **Cloud-Native Development:** Deepening my knowledge of cloud computing (AWS)
-
-* **Product Ownership:** Creating real-world apps with user engagement
+| Area | Tools / Technologies |
+|---|---|
+| **Languages** | C++, Python, Ruby, JavaScript, SQL |
+| **Backend & Frameworks** | Ruby on Rails, Django, Flask, REST APIs, gRPC |
+| **Distributed Systems** | MapReduce, Multi-threading, RPC orchestration, Caching Strategies |
+| **Datastores** | PostgreSQL, MySQL, Redis, Parquet |
+| **Cloud & DevOps** | AWS (EC2, S3, Lambda), Jenkins, Docker, Git |
+| **Testing & Automation** | Selenium, TestNG, Postman, CI/CD pipelines |
 
 ---
 
-## How I Work 💡
+## 🚀 Featured Projects
 
-I approach problems with a mix of engineering rigor and thoughtful design. I believe the best solutions balance technical excellence with real-world usability. I enjoy sharing my knowledge — I currently mentor undergraduates at Penn State in C++ debugging and algorithmic thinking, and I’m passionate about making complex topics accessible to all.
+### [Distributed MapReduce Compute Engine](https://github.com/PratypartyY2K/cpp-mapreduce-framework)
+A multi-threaded **MapReduce framework built in C++ using gRPC** for distributed execution.  
+Resolved reducer-side **lock contention** by introducing **double-buffered batching + fine-grained synchronization**, achieving **6–7× throughput improvement** under large workloads.
 
----
-
-## Let’s Connect! 🌐
-
-If you're interested in collaborating, chatting about system design, or discussing distributed systems, feel free to connect with me! You can reach me at kinshuk048@gmail.com or on [LinkedIn](https://www.linkedin.com/in/pratyushkumar123)
-
----
-
-## 🔧 Technologies I’ve Worked With:
-
-* **Languages:** C++, Python, Ruby, JavaScript, SQL
-* **Frameworks:** Ruby on Rails, Django, Flask, React (basics)
-* **Databases:** PostgreSQL, MySQL, Redis, Parquet
-* **Cloud:** AWS EC2
-* **Tools:** Docker, Jenkins, Git, Postman, Selenium
-* **System Design:** Load Balancing, Distributed Systems, Microservices, Caching
+### [Risk-Based Vaccination Prioritization System](https://github.com/PratypartyY2K/Vaccine)
+Developed a **Random Forest–based triage model** that improved **fairness and consistency** compared to manual prioritization.  
+Reduced **subjective decision bias** and supported more **transparent resource allocation**.
 
 ---
 
-## ⚡ Fun Fact 🎮
+## 🎯 Currently Exploring
 
-When I’m not building systems or learning new tech, you’ll find me playing badminton or mentoring others. I believe sports have instilled in me a disciplined, collaborative mindset, which I bring to all my work. 💪
+- Cloud-native service design (AWS + containerized microservices)
+- Distributed coordination + consistency patterns
+- Full-stack systems with *real user interaction*, not just demos
 
 ---
 
-## 🔗 Let’s Collaborate
+## 💡 How I Work
 
-Feel free to explore my projects, give feedback, or open an issue. My GitHub is a collection of my learning, challenges, and solutions that are always evolving.
+I like systems that are:
+- **Understandable** – simple where possible, structured where needed  
+- **Observable** – you should know *why* something works, not just *that* it works  
+- **Sustainable** – scalable systems stay clean only with deliberate design  
+
+I also serve as a **Graduate Learning Assistant**, mentoring students in C++ and algorithmic reasoning — teaching keeps me honest:  
+> *If I can’t explain it clearly, I don’t understand it well enough.*
+
+---
+
+## 🌐 Let’s Connect
+
+- **Email:** kinshuk048@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/pratyushkumar123
+
+---
+
+## 🎮 Outside of Code
+
+I play competitive **badminton** 🏸 — it keeps me sharp, disciplined, and team-focused.  
+Also: I enjoy helping others debug the “impossible bugs” — it’s my version of puzzles.
