@@ -31,10 +31,10 @@ I design, optimize, and scale backend systems that power real-world applications
 
 ## Recent Projects 🚀
 
-**MapReduce Compute Engine (Distributed Systems)**
+[**MapReduce Compute Engine (Distributed Systems)**](https://github.com/PratypartyY2K/cpp-mapreduce-framework)
 * Built a distributed MapReduce framework in C++ with gRPC. Improved performance by 6–7× by optimizing lock contention and RPC batching strategies.
 
-**Risk-Based Vaccination Prioritization System (ML/Backend)**
+[**Risk-Based Vaccination Prioritization System (ML/Backend)**](https://github.com/PratypartyY2K/Vaccine)
 * Developed a Random Forest model to prioritize individuals based on risk factors, improving fairness and decision-making for vaccine distribution in community health systems.
 
 ---
