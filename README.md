@@ -1,84 +1,83 @@
-Hi — I’m Pratyush Kumar. I build backend systems and scalable distributed services. I’ve engineered Ruby-on‐Rails microservices at Enphase Energy, built a multi-threaded MapReduce engine in C++/gRPC, and mentor students in C++ and algorithmic thinking. I’m currently focused on backend, cloud and performance engineering, and I invite you to explore my flagship repos below. 
+## 🧑‍💻 Hi, I’m Pratyush Kumar 👋
+
+I’m a Master’s student in Computer Science at Penn State University with 2 years of experience as a Software Engineer at Enphase Energy. My focus is on building scalable, reliable systems and distributed architectures. I’m currently expanding my skills into full-stack development while deepening my knowledge in backend engineering, cloud computing, and performance optimization.
 
 ---
 
-## 🎯 Current Focus  
-- Preparing for **Summer 2026 SWE Internships (U.S.)**  
-- Strengthening **Data Structures & Algorithms**  
-- Building projects in **Full Stack Development**  
-- Enhancing **system design, cloud, and backend skills**  
-- Growing my **GitHub & LinkedIn presence** for opportunities  
+## What I Build 🔧
+
+I design, optimize, and scale backend systems that power real-world applications. I thrive on solving complex problems like:
+* Concurrency management and performance bottlenecks
+* Designing scalable architectures that can handle large user bases
+* Distributed systems that work seamlessly across different services and databases 
 
 ---
 
-### 🌐 Connect with me
-<a href="https://twitter.com/PratypartyK"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-<a href="https://www.linkedin.com/in/pratyush-kumar-12653a191/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:kinshuk048@gmail.com?subject=Came%20from%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>  
+## My Skills 💻
+
+**Backend Systems:** Ruby on Rails, Django, C++, Python
+
+**Distributed Systems:** gRPC, MapReduce, Multi-threading
+
+**Data Engineering:** PostgreSQL, Redis, MySQL, Parquet
+
+**Cloud:** AWS (EC2)
+
+**DevOps:** Jenkins, CI/CD pipelines
+
+**Testing & Automation:** Selenium, Postman, TestRail, TestNG
 
 ---
 
-## 🛠️ Skills  
+## Recent Projects 🚀
 
-### Programming Languages  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+**MapReduce Compute Engine (Distributed Systems)**
+* Built a distributed MapReduce framework in C++ with gRPC. Improved performance by 6–7× by optimizing lock contention and RPC batching strategies.
 
-### Frameworks & Libraries  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)  
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)  
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)  
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)  
-
-### Databases  
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-
-### Testing  
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
-
-### Design  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
-
-### Version Control  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)  
+**Risk-Based Vaccination Prioritization System (ML/Backend)**
+* Developed a Random Forest model to prioritize individuals based on risk factors, improving fairness and decision-making for vaccine distribution in community health systems.
 
 ---
 
-## 📊 GitHub Stats  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PratypartyY2K)](https://github.com/anuraghazra/github-readme-stats)  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PratypartyY2K)](https://github.com/anuraghazra/github-readme-stats)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PratypartyY2K)](https://github.com/DenverCoder1/github-readme-streak-stats)  
+## What I’m Currently Focusing On 🎯
+
+* **Distributed Systems:** Scaling backend services efficiently
+
+* **Cloud-Native Development:** Deepening my knowledge of cloud computing (AWS)
+
+* **Product Ownership:** Creating real-world apps with user engagement
 
 ---
 
-## 💻 Development Environment  
+## How I Work 💡
 
-### Browsers  
-![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)  
-![Firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)  
-![Brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)  
+I approach problems with a mix of engineering rigor and thoughtful design. I believe the best solutions balance technical excellence with real-world usability. I enjoy sharing my knowledge — I currently mentor undergraduates at Penn State in C++ debugging and algorithmic thinking, and I’m passionate about making complex topics accessible to all.
 
-### Operating Systems  
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)  
+---
 
-### IDEs  
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)  
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)  
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)  
-![RubyMine](https://img.shields.io/badge/RubyMine-CC342D?style=for-the-badge&logo=ruby&logoColor=white)  
-![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black)  
+## Let’s Connect! 🌐
+
+If you're interested in collaborating, chatting about system design, or discussing distributed systems, feel free to connect with me! You can reach me at kinshuk048@gmail.com or on [LinkedIn](https://www.linkedin.com/in/pratyushkumar123)
+
+---
+
+## 🔧 Technologies I’ve Worked With:
+
+* **Languages:** C++, Python, Ruby, JavaScript, SQL
+* **Frameworks:** Ruby on Rails, Django, Flask, React (basics)
+* **Databases:** PostgreSQL, MySQL, Redis, Parquet
+* **Cloud:** AWS EC2
+* **Tools:** Docker, Jenkins, Git, Postman, Selenium
+* **System Design:** Load Balancing, Distributed Systems, Microservices, Caching
+
+---
+
+## ⚡ Fun Fact 🎮
+
+When I’m not building systems or learning new tech, you’ll find me playing badminton or mentoring others. I believe sports have instilled in me a disciplined, collaborative mindset, which I bring to all my work. 💪
+
+---
+
+## 🔗 Let’s Collaborate
+
+Feel free to explore my projects, give feedback, or open an issue. My GitHub is a collection of my learning, challenges, and solutions that are always evolving.
