@@ -1,9 +1,9 @@
 ## Pratyush Kumar — Backend & Distributed Systems Engineer
 
-I build and scale backend systems with a focus on **performance, reliability, and clarity of design**.  
-I’m currently pursuing my **Master’s in Computer Science at Penn State**, and previously worked for **2 years at Enphase Energy**, where I engineered and optimized cloud services used by thousands of users.
+I **build and scale backend systems** with a focus on performance, reliability, and clean design.  
+I’m currently pursuing my Master’s in Computer Science at Penn State and previously spent two years at Enphase Energy, where I worked on cloud services used by thousands of daily users.
 
-I enjoy the kind of problems that require understanding **data flow, concurrency, and real system behavior**—not just syntax.
+I enjoy solving problems around **data flow, concurrency, and real-world system behavior** — the kind of challenges you run into when building systems that actually run in production.
 
 ---
 
@@ -68,7 +68,7 @@ I also serve as a **Graduate Learning Assistant**, mentoring students in C++ and
 
 ---
 
-## 🎮 Outside of Code
+## Outside of Code
 
 I play competitive **badminton** 🏸 — it keeps me sharp, disciplined, and team-focused.  
 Also: I enjoy helping others debug the “impossible bugs” — it’s my version of puzzles.
