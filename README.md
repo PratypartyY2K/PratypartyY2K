@@ -1,4 +1,4 @@
-## 🧑‍💻 Pratyush Kumar — Backend & Distributed Systems Engineer
+## Pratyush Kumar — Backend & Distributed Systems Engineer
 
 I build and scale backend systems with a focus on **performance, reliability, and clarity of design**.  
 I’m currently pursuing my **Master’s in Computer Science at Penn State**, and previously worked for **2 years at Enphase Energy**, where I engineered and optimized cloud services used by thousands of users.
@@ -7,7 +7,7 @@ I enjoy the kind of problems that require understanding **data flow, concurrency
 
 ---
 
-## 🔧 What I Focus On
+## What I Focus On
 
 - Designing and scaling **distributed and backend systems**
 - Diagnosing and resolving **performance bottlenecks**
@@ -16,11 +16,11 @@ I enjoy the kind of problems that require understanding **data flow, concurrency
 
 ---
 
-## 💻 Skills & Technologies
+## Skills & Technologies
 
 | Area | Tools / Technologies |
 |---|---|
-| **Languages** | C++, Python, Ruby, JavaScript, SQL |
+| **Languages** | C++, Java, Python, Ruby, JavaScript, SQL |
 | **Backend & Frameworks** | Ruby on Rails, Django, Flask, REST APIs, gRPC |
 | **Distributed Systems** | MapReduce, Multi-threading, RPC orchestration, Caching Strategies |
 | **Datastores** | PostgreSQL, MySQL, Redis, Parquet |
@@ -29,7 +29,7 @@ I enjoy the kind of problems that require understanding **data flow, concurrency
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [Distributed MapReduce Compute Engine](https://github.com/PratypartyY2K/cpp-mapreduce-framework)
 A multi-threaded **MapReduce framework built in C++ using gRPC** for distributed execution.  
@@ -41,7 +41,7 @@ Reduced **subjective decision bias** and supported more **transparent resource a
 
 ---
 
-## 🎯 Currently Exploring
+## Currently Exploring
 
 - Cloud-native service design (AWS + containerized microservices)
 - Distributed coordination + consistency patterns
@@ -49,7 +49,7 @@ Reduced **subjective decision bias** and supported more **transparent resource a
 
 ---
 
-## 💡 How I Work
+## How I Work
 
 I like systems that are:
 - **Understandable** – simple where possible, structured where needed  
@@ -61,9 +61,9 @@ I also serve as a **Graduate Learning Assistant**, mentoring students in C++ and
 
 ---
 
-## 🌐 Let’s Connect
+## Let’s Connect
 
-- **Email:** kinshuk048@gmail.com  
+- **Email:** emailto:pratyushkum4@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/pratyushkumar123
 
 ---
