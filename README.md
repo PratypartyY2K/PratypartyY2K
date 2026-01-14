@@ -63,7 +63,7 @@ I also serve as a **Graduate Learning Assistant**, mentoring students in C++ and
 
 ## Let’s Connect
 
-- **Email:** emailto:pratyushkum4@gmail.com
+- **Email:** pratyushkum4@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/pratyushkumar123
 
 ---
