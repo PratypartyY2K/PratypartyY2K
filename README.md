@@ -8,9 +8,9 @@ Previously, I worked as a **Software Engineer at Enphase Energy**, building back
 
 ## Tech Stack
 
-**Languages:** C++, Java, Go, Python, Ruby, TypeScript
-**Backend:** Spring Boot, FastAPI, Ruby on Rails, Django, gRPC, REST APIs
-**Databases:** PostgreSQL, MySQL, Redis, MongoDB, Neo4j
+**Languages:** C++, Java, Go, Python, Ruby, TypeScript  
+**Backend:** Spring Boot, FastAPI, Ruby on Rails, Django, gRPC, REST APIs  
+**Databases:** PostgreSQL, MySQL, Redis, MongoDB, Neo4j  
 **Tools:** Docker, AWS, GitHub Actions, Jenkins
 
 ## Featured Projects
